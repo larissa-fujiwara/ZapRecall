@@ -12,3 +12,4 @@ O projeto consiste em desenvolver uma aplicação onde flashcards são distribui
 ## Link da aplicação
 
 [ZapRecall](https://zap-recall-mauve.vercel.app/)
+
